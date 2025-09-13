@@ -1,4 +1,3 @@
+streamlit==1.26.0
 crewai
-streamlit>=1.25.0
 pydantic
-chromadb[duckdb]>=0.4.0
